@@ -1,5 +1,6 @@
 ###################################################################
 # R codes for simulation setting 1 in single-subject simulations
+# 03: organize simulation results and make figures
 # Zihang Wang
 # 1/5/2023
 ###################################################################

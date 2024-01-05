@@ -1,5 +1,6 @@
 ###################################################################
 # R codes for simulation setting 1 in single-subject simulations
+# 02: run the simulations in setting 1
 # Zihang Wang
 # 1/5/2023
 ###################################################################

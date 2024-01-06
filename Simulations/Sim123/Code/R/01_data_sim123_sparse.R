@@ -23,7 +23,7 @@ source("00_utils.R")
 my_SNR = c(0.4,1.5,3)
 # Number of replications
 rep = 100
-# Variance level of inactive points in components
+# Variance level of inactive elements in components
 var_level = 0
 # Random seeds
 seed1 = 1470

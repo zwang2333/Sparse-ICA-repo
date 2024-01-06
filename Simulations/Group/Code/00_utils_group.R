@@ -1,4 +1,4 @@
-
+  
 # generate the simulation data for a single subject
 SimFMRI.ngca = function(snr, gamma.rate, gamma.shape,FWHM = 9,
                         noisyICA=TRUE, nNG=25, nTR=50, phi=0.47, 
